@@ -1,0 +1,3 @@
+- web : HTML, CSS, JS, PHP
+- dev : JAVA, PYTHON, BASH
+- SQL
